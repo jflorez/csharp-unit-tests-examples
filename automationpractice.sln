@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "automationpractice_xunit", "automationpractice_xunit\automationpractice_xunit.csproj", "{E8FEA89A-35CC-4B24-B15D-961746B61632}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "automationpractice_nunit", "automationpractice_nunit\automationpractice_nunit.csproj", "{5E2DB9E7-EAAD-4F93-9167-67F73AE7CD15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "autmationpractice_model", "autmationpractice_model\autmationpractice_model.csproj", "{79678DF4-1A19-4D81-9DF7-5B244123FDE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8FEA89A-35CC-4B24-B15D-961746B61632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8FEA89A-35CC-4B24-B15D-961746B61632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8FEA89A-35CC-4B24-B15D-961746B61632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8FEA89A-35CC-4B24-B15D-961746B61632}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E2DB9E7-EAAD-4F93-9167-67F73AE7CD15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E2DB9E7-EAAD-4F93-9167-67F73AE7CD15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E2DB9E7-EAAD-4F93-9167-67F73AE7CD15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E2DB9E7-EAAD-4F93-9167-67F73AE7CD15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79678DF4-1A19-4D81-9DF7-5B244123FDE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79678DF4-1A19-4D81-9DF7-5B244123FDE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79678DF4-1A19-4D81-9DF7-5B244123FDE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79678DF4-1A19-4D81-9DF7-5B244123FDE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
